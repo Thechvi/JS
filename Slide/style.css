@@ -44,5 +44,5 @@ body {
 }
 .slide.action h3 {
 	opacity: 1;
-	transition: opasity 0.3s ease-in 0.5s;
+	transition: opacity 0.3s ease-in 0.5s;
 }
