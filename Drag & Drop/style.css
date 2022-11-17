@@ -23,13 +23,16 @@ body {
 	box-shadow: 3px 3px red, 0.4em 0.4em olive;
 	border-radius: 10px;
 	padding: 0.8em 1em;
-	color: #fff;
+	color: rgba(255, 255, 255, 0.822);
 }
 .start {
+	background: linear-gradient( 90deg, #ff65e4 0%, #229efd 179.25%);
 }
 .progress {
+	background: linear-gradient( 90deg, #209cff 0%, #68e0cf 100%);
 }
 .done {
+	background: linear-gradient( 90deg, #84fab0 0%, #8fd3f4 100%);
 }
 .placeholder {
 	width: 150px;
