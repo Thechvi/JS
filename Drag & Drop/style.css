@@ -51,3 +51,9 @@ body {
 .item:active {
 	cursor: grabbing;
 }
+.hold {
+	border:2px solid red;
+}
+.hide {
+	display: none;
+}
